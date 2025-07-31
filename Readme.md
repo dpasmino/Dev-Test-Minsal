@@ -13,6 +13,7 @@ This project is a RESTful API built with FastAPI for user registration. It inclu
 - **JWT Token Generation**: Generates a token for user authentication.
 
 ## Project Structure
+.
 Dev-Test-Minsal/
 ├── app/
 │   ├── main.py
